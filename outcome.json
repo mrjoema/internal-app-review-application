@@ -1,0 +1,182 @@
+{
+    "reviewer_1": [
+        {
+            "name": "Wattpad",
+            "url": "https://www.wattpad.com/",
+            "category": "Book",
+            "uuid": "2e94b396-b24a-49fc-bd5f-b2077f99cfb1"
+        },
+        {
+            "name": "Goodreads",
+            "url": "https://www.goodreads.com/",
+            "category": "Book",
+            "uuid": "bfc2b2f1-c320-46b5-b4ac-443b06692916"
+        },
+        {
+            "name": "Libby",
+            "url": "https://www.libbyapp.com/",
+            "category": "Book",
+            "uuid": "c4e5c547-2051-41bb-9e1f-1bbad9e87d6e"
+        },
+        {
+            "name": "Slack",
+            "url": "https://slack.com/",
+            "category": "Business",
+            "uuid": "5757a166-002d-4b0a-a0c0-dc8e6b57be5c"
+        },
+        {
+            "name": "Zoom",
+            "url": "https://zoom.us/",
+            "category": "Business",
+            "uuid": "ce38f4a3-54d5-46d5-88b5-7f3ccf2060f3"
+        },
+        {
+            "name": "MyFitnessPal",
+            "url": "https://www.myfitnesspal.com/",
+            "category": "Health",
+            "uuid": "9db71bd7-3a86-4dc1-afe1-cd333f94eaf6"
+        },
+        {
+            "name": "Fitbit",
+            "url": "https://www.fitbit.com/",
+            "category": "Health",
+            "uuid": "85a44324-239e-47a0-88ff-0b862fa09e2a"
+        },
+        {
+            "name": "Skyscanner",
+            "url": "https://www.skyscanner.com/",
+            "category": "Travel",
+            "uuid": "e052ab72-b5d3-4fa9-81d8-1d03af5cf9c4"
+        },
+        {
+            "name": "Booking.com",
+            "url": "https://www.booking.com/",
+            "category": "Travel",
+            "uuid": "058a38e3-4854-4379-8473-3e64b370d4b5"
+        },
+        {
+            "name": "Expedia",
+            "url": "https://www.expedia.com/",
+            "category": "Travel",
+            "uuid": "69f68229-3cc5-4675-bc9e-83617ac7e5f4"
+        }
+    ],
+    "reviewer_2": [
+        {
+            "name": "Kindle",
+            "url": "https://www.amazon.com/kindle-dbs/fd/kcp",
+            "category": "Book",
+            "uuid": "f3df3060-6d51-418d-83d3-16091c1b44a9"
+        },
+        {
+            "name": "Blinkist",
+            "url": "https://www.blinkist.com/",
+            "category": "Book",
+            "uuid": "b24eef53-2719-4310-8aa3-6a9056e9011a"
+        },
+        {
+            "name": "Audible",
+            "url": "https://www.audible.com/",
+            "category": "Book",
+            "uuid": "fd7cfca6-981b-4b92-b9c6-d934b99e0b3d"
+        },
+        {
+            "name": "Salesforce",
+            "url": "https://www.salesforce.com/",
+            "category": "Business",
+            "uuid": "f1f30a85-6c5b-41cb-a85c-27f6958e5e0a"
+        },
+        {
+            "name": "Zoho",
+            "url": "https://www.zoho.com/",
+            "category": "Business",
+            "uuid": "458a8473-5fc9-48b1-8d4a-2f7e2b4be6b4"
+        },
+        {
+            "name": "Headspace",
+            "url": "https://www.headspace.com/",
+            "category": "Health",
+            "uuid": "2e74f334-fad0-44b4-9b4f-60b86409db07"
+        },
+        {
+            "name": "Calm",
+            "url": "https://www.calm.com/",
+            "category": "Health",
+            "uuid": "ab1f86c2-fd17-4389-9f4f-53bafcd21409"
+        },
+        {
+            "name": "TripAdvisor",
+            "url": "https://www.tripadvisor.com/",
+            "category": "Travel",
+            "uuid": "4a126cd2-88f3-443b-8632-44a3c8e3ef28"
+        },
+        {
+            "name": "Kayak",
+            "url": "https://www.kayak.com/",
+            "category": "Travel",
+            "uuid": "ad8236c0-e4d1-4b4f-a435-f0dc3f315ab1"
+        },
+        {
+            "name": "Airbnb",
+            "url": "https://www.airbnb.com/",
+            "category": "Travel",
+            "uuid": "6ef628d1-4e0b-4566-b713-b5cb4d191079"
+        }
+    ],
+    "reviewer_3": [
+        {
+            "name": "Google Play Books",
+            "url": "https://play.google.com/store/books",
+            "category": "Book",
+            "uuid": "f42ecba5-f03b-42d3-b9cf-2e3193e49ed5"
+        },
+        {
+            "name": "Bookmate",
+            "url": "https://bookmate.com/",
+            "category": "Book",
+            "uuid": "4650b706-7cd2-4788-8401-1918b3d76741"
+        },
+        {
+            "name": "Trello",
+            "url": "https://trello.com/",
+            "category": "Business",
+            "uuid": "bca01a29-5943-46f3-93d0-36b0d8332f3e"
+        },
+        {
+            "name": "Basecamp",
+            "url": "https://basecamp.com/",
+            "category": "Business",
+            "uuid": "b16b17e0-7bc3-4ed4-8e39-0aafbbd1c72a"
+        },
+        {
+            "name": "Microsoft Teams",
+            "url": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
+            "category": "Business",
+            "uuid": "db50e1a3-986f-4ed4-95e5-04b62b11b866"
+        },
+        {
+            "name": "Strava",
+            "url": "https://www.strava.com/",
+            "category": "Health",
+            "uuid": "bbec7fd9-5938-4f8f-a38e-72e38325f7b2"
+        },
+        {
+            "name": "Nike Training Club",
+            "url": "https://www.nike.com/ntc-app",
+            "category": "Health",
+            "uuid": "28986a7c-6211-4399-93b0-2252b2401d61"
+        },
+        {
+            "name": "Hotels.com",
+            "url": "https://www.hotels.com/",
+            "category": "Travel",
+            "uuid": "4b0aae78-3d8c-4cb7-b334-5f5409fc06b7"
+        },
+        {
+            "name": "Agoda",
+            "url": "https://www.agoda.com/",
+            "category": "Travel",
+            "uuid": "24c4ef8e-7d2d-426b-9a94-8a5d68d56daa"
+        }
+    ]
+}
