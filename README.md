@@ -4,7 +4,16 @@ This is the internal app review application that distributes the apps into revie
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+The application has 2 part, ETL job and the web server.
+
+ETL script: src/script/distribuitor.ts
+
+API: src/app.ts 
+
+The ETL script is responsible to run daily for apps allocation and reviewers can
+get the assigned apps through the web server API in the real time. The reviewers can also call the POST endpoint to decline the specific apps and the script will update the result based on the numbers of reviewers / apps, the apps that reviewers declined to review.
+
+On every Sunday, the script also shuffles the list of apps allocation so reviewers can take rotation for other apps review. 
 
 ## Getting Started
 
