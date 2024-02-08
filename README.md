@@ -10,6 +10,10 @@ ETL script: src/script/distribuitor.ts
 
 API: src/app.ts 
 
+Apps dataset: src/data/dataset.json
+
+Reviewer list: src/data/reviewers.json
+
 The ETL script is responsible to run daily for apps allocation and reviewers can
 get the assigned apps through the web server API in the real time. The reviewers can also call the POST endpoint to decline the specific apps and the script will update the result based on the numbers of reviewers / apps, the apps that reviewers declined to review.
 
@@ -42,7 +46,7 @@ ping http://localhost:3000/reporting
 
 // Step 5: (Bonus point) decline apps review
 Run curl command to decide what app you want to decline to review
-curl -X POST http://localhost:3000/decline/:reviewer_id/:app_uuid
+curl -X POST http://localhost:3000/decline/${reviewer_id}/${app_uuid}
 
 // Step 6: Simulate the ETL jobs for refresh apps assignment
 // The outcome should be different due to someone sending the request to decline to review
